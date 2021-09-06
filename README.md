@@ -6,10 +6,21 @@ Windowsのマルチスレッドには4種類あります。<br>
 オマケでLinux版のpthreadも。<p>
  
 - ①C++11のライブラリ
+C++11の機能で書いています。<br>
+Windows Threadのような細やかな制御が出来ません。<p<
+ 
 - ②C Run Time Library
+Windows2000時代からあるライブラリ。<br>
+使い勝手が悪いです。<p>
+ 
 - ③MFC Multithread
+MFCのマルチスレッド。<br>
+最近はMFCではなく、Win32 APIなので必要ないかも？<p>
+ 
 - ④Win32 API Multithread
-- ⑤Linux Multithread   
-     
-                              2021/09/06      
-                              Retar.jp 
+使いやすく便利なAPIです。<br>
+比較検討すると「これが良い」になると思います<p>
+ 
+- ⑤Linux Multithread
+Solaris伝来のpthread。<p>
+本家なので素直。<p>
