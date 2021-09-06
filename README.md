@@ -22,5 +22,5 @@ MFCのマルチスレッド。<br>
 比較検討すると「これが良い」になると思います<p>
  
 - ⑤Linux Multithread<br>
-Solaris伝来のpthread。<p>
+Solaris伝来のpthread。<br>
 本家なので素直。<p>
