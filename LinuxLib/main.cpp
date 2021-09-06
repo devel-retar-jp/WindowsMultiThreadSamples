@@ -9,7 +9,6 @@
 /// ①C++11のライブラリ
 /// ②C Run Time Library
 /// ③MFC Multithread
-/// http://y-lab.org/memo.html
 /// ④Win32 API Multithread
 /// ⑤Linux Multithread   <----- これ！
 /// 
