@@ -7,7 +7,7 @@ Windowsのマルチスレッドには4種類あります。<br>
  
 - ①C++11のライブラリ<br>
 C++11の機能で書いています。<br>
-Windows Threadのような細やかな制御が出来ません。<p<
+Windows Threadのような細やかな制御が出来ません。<p>
  
 - ②C Run Time Library<br>
 Windows2000時代からあるライブラリ。<br>
@@ -19,7 +19,7 @@ MFCのマルチスレッド。<br>
  
 - ④Win32 API Multithread<br>
 使いやすく便利なAPIです。<br>
-比較検討すると「これが良い」になると思います<p>
+比較検討すると「これが良い」になると思います。<p>
  
 - ⑤Linux Multithread<br>
 Solaris伝来のpthread。<br>
